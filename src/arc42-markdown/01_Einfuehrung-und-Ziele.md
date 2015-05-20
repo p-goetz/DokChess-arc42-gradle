@@ -3,6 +3,10 @@ type=page
 status=published
 ~~~~~~
 
+Dieser Abschnitt führt in die Aufgabenstellung ein und skizziert die Ziele, die DokChess verfolgt.
+
+![Produktkarton DokChess](images/Abb09_01_DokChessBox.png "Produktkarton DokChess")
+
 ## 1.1 Aufgabenstellung
 
 Was ist DokChess?
