@@ -1,8 +1,14 @@
-title=Einführung und Ziele
+title=1. Einführung und Ziele
 type=page
 status=published
 ~~~~~~
 
-TBD: Inhalt
+## 1.1 Aufgabenstellung
 
-![Domain Classes](uml/domain-classes.png)
+Was ist DokChess?
+- DokChess ist eine voll funktionsfähige Schach-Engine.- Sie dient als einfach zugängliches und zugleich attraktives Fallbeispiel für Architekturentwurf, -bewertung und -dokumentation.- Der verständliche Aufbau lädt zum Experimentieren und zum Erweitern der Engine ein.- Ziel ist nicht die höchstmögliche Spielstärke – dennoch gelingen Partien, die Gelegenheitsspielern Freude bereiten.Wesentliche Features:
+- Vollständige Implementierung der FIDE-Schachregeln- Unterstützt das Spiel gegen menschliche Gegner und andere Schachprogramme- Beherrscht zentrale taktische Ideen, beispielsweise Gabel und Spieß- Integration mit modernen grafischen Schach-Frontends
+
+## 1.2 Qualitätsziele
+
+## 1.3 Stakeholder
