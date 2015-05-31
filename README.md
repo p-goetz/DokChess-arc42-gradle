@@ -1,6 +1,6 @@
 # arc42-gradle
 
-Architekturüberblick für [DokChess](http://www.dokchess.de), gegliedert nach [arc42] (http://www.arc42.de/), als Markdown-Files und integriert in einen Gradle-Build.
+Architekturüberblick für [DokChess](http://www.dokchess.de), gegliedert nach [arc42] (http://www.arc42.de/), als Markdown-Dateien und integriert in einen [Gradle](http://gradle.org)-Build.
 
 Erstellt auf Basis des [Gradle-Projekt-Template für arc42]("https://github.com/p-goetz/arc42-gradle) von Peter Götz.
 
@@ -12,6 +12,6 @@ Für dieses Gradle-Projekt habe ich die Inhalte ins Template von Peter Götz geb
 _Stefan Zörner_
 
 ## Verwendung
-Die Markdown-Quelltexte der Dokumentation liegen unter `src/arc42-markdown`.
+Die Markdown-Quelltexte der Dokumentation liegen unter `src/arc42-markdown`, hier für jedes arc42-Kapitel eine `*.md`-Datei. 
 
-Über den Aufruf von `gradle` wird die Dokumentation erzeugt und unter `build/jbake` abgelegt. Für die Transformation der Markdown-Dateien wird JBake verwendet.
+Über den Aufruf von `gradle` wird die Dokumentation erzeugt und unter `build/jbake` abgelegt. Für die Transformation der Markdown-Dateien wird dabei [JBake](http://jbake.org) verwendet.
