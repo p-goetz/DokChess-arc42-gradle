@@ -20,14 +20,14 @@
     Für dieses Gradle-Projekt <a class="externalLink" href="https://github.com/DokChess/arc42-gradle">(GitHub)</a> habe ich die Inhalte ins Template von Peter Götz gebracht, mit der Idee, hierfür ein befülltes Beispiel parat zu haben.
     </p/
     
-    <p><i>Stefan Zörner</i> (<a class="externalLink" href="mailto:stefan.zoernert@embarc.de">stefan.zoernert@embarc.de</a>)</p>
+    <p><i>Stefan Zörner</i> (<a class="externalLink" href="mailto:stefan.zoerner@embarc.de">stefan.zoerner@embarc.de</a>)</p>
 
     <h2>Über das zugrundeliegende Template-Projekt</h2>
     
-    <p>Das Projekt wurde aus diesem Template <a class="externalLink" href="https://github.com/p-goetz/arc42-gradle">(GitHub)</a>abgeleitet.
+    <p>Das Projekt wurde aus diesem Template <a class="externalLink" href="https://github.com/p-goetz/arc42-gradle">(GitHub)</a> abgeleitet.
 
     <p>Über den Aufruf von <code>gradle</code> wird die Dokumentation erzeugt und unter <code>build/jbake</code>
-        abgelegt. Für die Transformation der Markdown-Dateien wird <a class="externalLink" href="" http://www.jbake.org/">JBake</a>
+        abgelegt. Für die Transformation der Markdown-Dateien wird <a class="externalLink" href="http://www.jbake.org/">JBake</a>
         verwendet. </p>
 
     <p>Das zugrundeliegende Gradle-Projekt kann als Template frei und ohne Einschränkungen verwendet und verändert werden und ist als
